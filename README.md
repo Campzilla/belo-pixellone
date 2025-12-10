@@ -51,6 +51,12 @@ You can run this tool directly in your browser or build it locally.
 2. `npm install`
 3. `npm run dev`
 
+or
+
+go here and download the tool 
+https://campzillalab.itch.io/belo-pixellone
+
+
 ## ⚖️ License
 
 Free & Open Source. Do whatever you want with it.
