@@ -4,7 +4,7 @@
   <img src="assets/Logo mascotte.png" alt="Belo Pixellone Mascotte" width="200" />
 </p>
 
-**BELO PIXELLONE** is a powerful, offline, browser-based tool designed to convert high-resolution images into production-ready pixel art sprites. Unlike simple filters, this tool processes image data at the byte level to generate authentic retro graphics.
+**BELO PIXELLONE** is a powerful, offline, portable tool designed to convert high-resolution images into production-ready pixel art sprites. Unlike simple filters, this tool processes image data at the byte level to generate authentic retro graphics.
 
 Built with **React**, **TypeScript**, and pure **Canvas API**. No heavy external image processing libraries just raw math and passion.
 
