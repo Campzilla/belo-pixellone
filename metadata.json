@@ -1,0 +1,5 @@
+{
+  "name": "BELO PIXELLONE",
+  "description": "An offline, browser-based tool to convert high-res AI images into production-ready pixel art sprites. Features smart palette reduction, resizing, and color grading.",
+  "requestFramePermissions": []
+}
