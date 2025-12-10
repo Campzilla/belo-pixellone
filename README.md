@@ -55,3 +55,4 @@ You can run this tool directly in your browser or build it locally.
 
 Free & Open Source. Do whatever you want with it.
 Directed & Curated by **Fred Campzilla**.
+made by lazy people for lazy people
